@@ -4,5 +4,5 @@ int main()
 {
     cout << "mama\\nar\"uto\\titanik\\ama'tor";
 
-    return 0;
+    return 0; 
 }
